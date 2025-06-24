@@ -5,4 +5,5 @@ This healthcare dashboard provides comprehensive insights into inpatient and out
 2.Data Collection 
 3.Transformation and Modelling 
 4.Dashboard layout and Design 
-5.Interactivity and navigation 6.Testing
+5.Interactivity and navigation 
+6.Testing
